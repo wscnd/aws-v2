@@ -1,5 +1,11 @@
 # AWS for Frontend Engineers
 
+Course taken as an introduction to AWS.
+
+Result is [this S3 bucket](https://d1xyprkm9vef73.cloudfront.net/notes/cupcake) that contains a static web site distributed with CloudFront.
+
+Steps from the course:
+
 - [00 - Introduction](content/00%20-%20Introduction.md)
 - [01 - The AWS Free Tier](content/01%20-%20The%20AWS%20Free%20Tier.md)
 - [02 - Account Set Up](content/02%20-%20Account%20Set%20Up.md)
